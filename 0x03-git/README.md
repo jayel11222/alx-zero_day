@@ -1,1 +1,2 @@
-“my second commit updated”
+HI
+“my second readme commit is up to date”
